@@ -10,6 +10,7 @@
 
 - [Diễn đàn bác sĩ nội trú](https://bacsinoitru.vn) - Càng khó khăn thành công càng ý nghĩa
 - [Điều trị](https://www.dieutri.vn) - Thuốc phác đồ cho triệu chứng và chẩn đoán
+- [Doctor Plus Club](https://doctorplus.club) - Free Ebooks Download, Free Medical Download
 - [MSD](https://www.msdmanuals.com/vi) - Nhà cung cấp thông tin y khoa đáng tin cậy từ năm 1899
 - [Medscape](https://www.medscape.com) -Your one-stop resource for medical news, clinical reference, and education
 - [Medical Pocket](https://www.youtube.com/channel/UCzfNqeN-7MKWWVuKL3y7fRw) - Kênh YouTube của Medical Pocket
