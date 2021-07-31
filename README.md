@@ -4,6 +4,7 @@
 - [Nội khoa](#nội-khoa)
 - [Sản khoa](#sản-khoa)
 - [Nhi khoa](#nhi-khoa)
+- [Hỗ trợ](#hỗ-trợ)
 
 ## Y học cơ sở
 
@@ -36,3 +37,7 @@
 ## Nhi khoa
 
 - [JPRP](https://jprp.vn/index.php/JPRP) - Tạp chí Nghiên cứu và Thực hành Nhi khoa
+
+## Hỗ trợ
+
+- [Medical Study Zone](https://medicalstudyzone.com) - Guides and Notes for Medical Students
