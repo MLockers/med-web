@@ -26,9 +26,11 @@
 
 ## Nội khoa
 
+- [ADA](https://www.diabetes.org) - American Diabetes Association
 - [American College of Cardiology Foundation](https://www.acc.org)
 - [Thầy Thuốc Việt Nam](https://thaythuocvietnam.vn) - Vì sức khỏe người Việt
 - [Tổng hội Y học Việt Nam](http://tonghoiyhoc.vn)
+- [VADE](https://vade.org.vn) - Hội Nội tiết & Đái tháo đường Việt Nam
 
 ## Sản khoa
 
